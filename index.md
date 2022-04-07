@@ -1,7 +1,7 @@
 # This is my work in week 2
 ## This is done during week 2 lab
 
-Hi. I am Anthony.
+_Hi_. I am **Anthony.**
 
 ---
 
