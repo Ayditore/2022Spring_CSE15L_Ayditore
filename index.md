@@ -1,5 +1,16 @@
-## This is my work in week 2
+# This is my work in week 2
+## This is done during week 2 lab
 
-Hi. i am Anthony.
+Hi. I am Anthony.
 
-I can edit this file on my own computer
+---
+
+1. Hello
+2. World
+3. I love 15L
+
+* Step 1
+* Step 2
+* Step 2
+
+[This is a link to youtube](https://www.youtube.com/)
