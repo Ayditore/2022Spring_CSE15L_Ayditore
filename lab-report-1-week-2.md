@@ -11,7 +11,7 @@ In this report is a tutorial for incoming 15L students. It will tell you how to 
 * Step 2: Find the VS code version that fits your operating system
 * Step 3: Follow the instruction to install
 
-**Here is the page you should see if you install vs code properly.**
+**Here is the page should see if installed vs code properly.**
 ![vscode window](Installvscode.png)
 
 ---
@@ -25,7 +25,7 @@ In this report is a tutorial for incoming 15L students. It will tell you how to 
 Then I typed yes
 * Step 4: I typed in my password and pressed ENTER (I noticed that my password will no appear on my screen for safty reason)
 
-**Here is the page you shoudl see if you have connected to the server**
+**Here is the page shoudl see if connected to the server**
 ![Logged In](LoggedIn.png)
 
 ---
@@ -77,3 +77,5 @@ Then I typed yes
 
 **Step 2 and Step 3 I tried**
 ![Quicktyping](Optimizing%20Remote%20Running.png)
+
+**The End.**
