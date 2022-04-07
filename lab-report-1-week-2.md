@@ -1,6 +1,3 @@
-
-![This is my screen shot](Screenshot.png)
-
 # Welcome to Anthony's Lab Report
 
 In this report is a tutorial for incoming 15L students. It will tell you how to log into account on ieng6.
@@ -13,7 +10,7 @@ In this report is a tutorial for incoming 15L students. It will tell you how to 
 * Step 3: Follow the instruction to install
 
 **Here is the page you should see if you install vs code properly.**
-![vscode window](installvscode.png)
+![vscode window](Installvscode.png)
 
 ---
 ## Remotely Connecting
@@ -26,7 +23,8 @@ type yes
 * Step 4: Type in your password and press ENTER (your password will no appear on your screen for safty reason)
 
 **Here is the page you shoudl see if you have connected to the server**
-![vscode window](installvscode.png)
+![Logged In](LoggedIn.png)
+
 ---
 ## Trying Some Commands
 
