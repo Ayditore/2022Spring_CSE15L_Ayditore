@@ -16,6 +16,6 @@ _Hi_. I am **Anthony.**
 
 [This is a link to youtube](https://www.youtube.com/)
 
-[Lab Report 1](lab-report-1-week-2.html)
+[**Lab Report 1**](lab-report-1-week-2.html)
 
-[Lab Report 1](https://ayditore.github.io/2022Spring_CSE15L_Week2/lab-report-1-week-2.html)
+[Lab Report 1 - Leads to the Same Page as above link](https://ayditore.github.io/2022Spring_CSE15L_Week2/lab-report-1-week-2.html)
