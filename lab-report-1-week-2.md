@@ -6,9 +6,9 @@ In this report is a tutorial for incoming 15L students. It will tell you how to 
 ## Installing VScode
 
 **The steps I took to install VScode**
-* Step 1: Go to the [Visual Studio Code website](https://code.visualstudio.com/)
-* Step 2: Find the VS code version that fits your operating system
-* Step 3: Follow the instruction to install
+* Step 1: I went to the [Visual Studio Code website](https://code.visualstudio.com/)
+* Step 2: I found the VS code version that fits my operating system
+* Step 3: I followed the instruction to install
 
 **Here is the page you should see if you install vs code properly.**
 ![vscode window](Installvscode.png)
